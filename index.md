@@ -1,6 +1,4 @@
-<button onclick="http://msoe-sse.com/msoe-sse-personal-site-starter/anotherPage.html">Accomplishments</button>
-<button onclick="http://msoe-sse.com/msoe-sse-personal-site-starter/anotherPage.html">Photography</button>
-<button onclick="http://msoe-sse.com/msoe-sse-personal-site-starter/anotherPage.html">Career Goals</button>
+<button><a href="http://msoe-sse.com/msoe-sse-personal-site-starter/anotherPage.html">Another Page</a></button>
 
 # Professional. Performant. Perfect.
 
