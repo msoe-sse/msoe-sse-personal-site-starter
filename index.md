@@ -11,5 +11,6 @@ I've built websites for a variety of well-known companies, some of whose logos a
 <img src="assets/logo-3.png" height="33%" width="33%" >
 <img src="assets/logo-1.png" height="33%" width="33%" >
 <img src="assets/logo-2.png" height="33%" width="33%" >
+<img src="assets/logo-4.png" height="33%" width="33%" >
 
 
