@@ -1,9 +1,9 @@
+<button onclick="http://msoe-sse.com/msoe-sse-personal-site-starter/anotherPage.html">Accomplishments</button>
+<button onclick="http://msoe-sse.com/msoe-sse-personal-site-starter/anotherPage.html">Photography</button>
+<button onclick="http://msoe-sse.com/msoe-sse-personal-site-starter/anotherPage.html">Career Goals</button>
+
 # Professional. Performant. Perfect.
-----
-<button onclick="anotherPage.html">Accomplishments</button>
-<button onclick="anotherPage.html">Photography</button>
-<button onclick="anotherPage.html">Career Goals</button>
----- 
+
 
 This is the the type of development we're after. Whether you're a potential client or just looking, I guarentee you won't be dissapointed.
 
